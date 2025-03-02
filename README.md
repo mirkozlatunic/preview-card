@@ -31,7 +31,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Netlify Website](https://celebrated-sprite-781c92.netlify.app/)
+- Live Site URL: [Github Page](https://mirkozlatunic.github.io/preview-card/)
 
 ## My process
 
