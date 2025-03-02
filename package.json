@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/mirkozlatunic/preview-card",
+  "homepage": "https://mirkozlatuinc.github.io/preview-card",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
